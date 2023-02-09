@@ -1,0 +1,8 @@
+/target/
+/screenshots/
+/output/
+/out
+/.classpath
+/marionette.txt
+/.idea
+/*.iml
